@@ -14,4 +14,5 @@ git clone https://github.com/indohck/Drak-fb
 
 cd Drak-fb
 
-python2 Drak-FB.py
+python2 fb.py
+
