@@ -10,8 +10,8 @@ pip2 install mechanize
 
 pkg install git
 
-git clone https://github.com/R4M4DH4N/Drak-FB
+git clone https://github.com/indohck/Drak-fb
 
-cd Drak-FB
+cd Drak-fb
 
 python2 Drak-FB.py
